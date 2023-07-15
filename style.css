@@ -1,0 +1,113 @@
+*{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+#portfolio{
+    height: 80px;
+    background-color: #1D5B79;
+    color: #F3AA60;
+    display: flex;
+    align-items: center;
+    font-size: 70px;
+}
+#rashmi1{
+    height: 120px;
+    width: 150px;
+    background-image: url(mywork.jpg);
+    background-size: cover;
+    border: 5px solid black;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#rashmi2{
+    height: 120px;
+    width: 150px;
+    background-image: url(aboutme.jpg);
+    background-size: cover;
+    border: 5px solid black;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#rashmi3{
+    height: 120px;
+    width: 150px;
+    background-image: url(socialmedia.jpg);
+    background-size: cover;
+    border: 5px solid black;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#rashmi4{
+    height: 120px;
+    width: 150px;
+    background-image: url(contactme.jpg);
+    background-size: cover;
+    border: 5px solid black;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#backgroundimage{
+    height: 500px;
+    background-image: url(rashmi.jpeg);
+    background-size: cover;
+}
+#thanks{
+    height: 80px;
+    background-color:#1D5B79;
+    color: black;
+}
+#catagory{
+    margin-left: 45px;
+}
+a{
+    color: aliceblue;
+}
+#rashmiA{
+    height: 500px;
+    width: 400px;
+    background-image: url(ukulele.jpeg);
+    background-size: cover;
+    border: 5px solid aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#rashmiB{
+    height: 500px;
+    width: 400px;
+    background-image: url(photo.jpg);
+    background-size: cover;
+    border: 5px solid aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
